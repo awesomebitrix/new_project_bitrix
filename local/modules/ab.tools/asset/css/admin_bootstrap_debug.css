@@ -1,0 +1,13 @@
+* {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+}
+.adm-detail-tabs-block {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+}
+.adm-workarea select {
+	height: auto !important;
+}

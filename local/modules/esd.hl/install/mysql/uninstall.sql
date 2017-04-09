@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `hl_log`;

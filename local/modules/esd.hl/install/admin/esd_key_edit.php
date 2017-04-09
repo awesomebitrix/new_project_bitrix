@@ -1,0 +1,1 @@
+<?php require_once($_SERVER['DOCUMENT_ROOT'].'/local/modules/esd.hl/admin/esd_key_edit.php');
